@@ -18,22 +18,7 @@ import javax.swing.border.TitledBorder;
 import java.math.BigDecimal;
 import yahoofinance.YahooFinance;
 import yahoofinance.Stock;
-//import yahoofinance.*;
-//import yahoofinance.exchanges.*;
-//import yahoofinance.histquotes.*;
-//import yahoofinance.histquotes2.*;
-//import yahoofinance.mock.*;
-//import yahoofinance.query2v8.*;
-//import yahoofinance.quotes.csv.*;
-//import yahoofinance.quotes.fx.*;
-//import yahoofinance.quotes.query1v7.*;
-//import yahoofinance.quotes.stock.*;
-//import yahoofinance.util.*;
-//import yahoofinance.FxQuoteRequestTest;
-//import yahoofinance.HistoricalQuoteRequestTest;
-//import yahoofinance.QuoteRequestFlowTest;
-//import yahoofinance.SimpleQuoteRequestTest;
-//import yahoofinance.Utils;
+
 
 public class GUISimulation implements PropertyChangeListener {
 	
