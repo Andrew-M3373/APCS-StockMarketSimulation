@@ -12,16 +12,16 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import org.patriques.input.*;
+//import org.patriques.input.*;
 import org.patriques.input.timeseries.Interval;
 import org.patriques.input.timeseries.OutputSize;
 import org.patriques.output.*;
-import org.patriques.output.quote.*;
-import org.patriques.output.exchange.*;
+//import org.patriques.output.quote.*;
+//import org.patriques.output.exchange.*;
 import org.patriques.output.timeseries.*;
 import org.patriques.output.timeseries.data.StockData;
 import org.patriques.*;
-import java.math.BigDecimal;
+//import java.math.BigDecimal;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
@@ -294,9 +294,6 @@ public class GUISimulation {
 		
 		try {
 			Files.write(Paths.get("Transaction History.txt"), order.getBytes(), StandardOpenOption.APPEND);
-//			PrintStream oFile = new File("Transaction History.txt");
-//			oFile.(order);
-//			oFile.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("Error: File Not Found");
 		}
