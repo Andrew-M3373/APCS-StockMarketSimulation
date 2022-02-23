@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="C:/Users/Andrew/.m2/repository/com/squareup/okhttp3/okhttp-ws/3.4.0/okhttp-ws-3.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Andrew/.m2/repository/com/squareup/okio/okio/1.9.0/okio-1.9.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Andrew/.m2/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrew/git/APCS-StockMarketSimulation/Stock Market Simulation 2/YahooFinanceAPI.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
